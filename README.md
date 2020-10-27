@@ -16,5 +16,7 @@ Here is a brief Description of all the notebooks in this repo.
 * ensemble-stage2-models(self attention+GRU).ipynb (In this notebook, we ensembled our 2 stage2 models)
 
 
+https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard
+
 ### Public LeaderBoard Score: 0.225
 ### Private LeaderBoard Score: 0.218
