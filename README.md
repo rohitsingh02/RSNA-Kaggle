@@ -1,5 +1,6 @@
 # RSNA-Kaggle
-58th Place Solution
+
+![](https://www.transparentpng.com/download/bronze-medal-png/bronze-medal-blank-png-images-17.png) 58th Place Solution
 
 
 Here is a brief Description of all the notebooks in this repo.
