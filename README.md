@@ -1,7 +1,7 @@
 # RSNA-Kaggle
 
 
-<img src="https://www.transparentpng.com/download/bronze-medal-png/bronze-medal-blank-png-images-17.png" alt="drawing" style="width:20px;height:20px"/>
+<img src="https://www.transparentpng.com/download/bronze-medal-png/bronze-medal-blank-png-images-17.png" width="13" height="13"/> **58th Place Solution**
 
 
 Here is a brief Description of all the notebooks in this repo.
